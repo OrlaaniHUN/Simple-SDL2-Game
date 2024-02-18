@@ -1,5 +1,4 @@
 #include "window.h"
-#include <SDL2/SDL_video.h>
 
 int init_window(SDL_Window **window)
 {

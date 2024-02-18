@@ -1,5 +1,4 @@
 #include "render.h"
-#include <SDL2/SDL_image.h>
 
 int init_renderer(SDL_Renderer **renderer, SDL_Window *window)
 {

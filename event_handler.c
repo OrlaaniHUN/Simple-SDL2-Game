@@ -1,6 +1,5 @@
 #include "event_handler.h"
 #include "render.h"
-#include <SDL2/SDL_events.h>
 
 int colour = 0;
 void handle_events(int *quit, int *posX, int *posY, SDL_Color *color)
